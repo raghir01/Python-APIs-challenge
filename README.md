@@ -5,4 +5,4 @@ to perform data analytics on the collected JSON data via API. Produced inference
 analysis and produced graphs to visualize the findings.
 Used Jupyter notebook for data exploration and used matplotlib to produce graphs.
 
-![alt text](https://github.com/raghir01/gobal_weather_analysis/blob/master/Graduation and Poverty Rate.png)
+![alt text](https://github.com/raghir01/gobal_weather_analysis/blob/master/Latitude_vs_Cloudiness_Plot.png)
