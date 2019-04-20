@@ -4,3 +4,5 @@ performed a weather check on each of the cities using weather API calls. Used py
 to perform data analytics on the collected JSON data via API. Produced inferences from the
 analysis and produced graphs to visualize the findings.
 Used Jupyter notebook for data exploration and used matplotlib to produce graphs.
+
+![alt text](https://github.com/raghir01/gobal_weather_analysis/blob/master/Graduation and Poverty Rate.png)
